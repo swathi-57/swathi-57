@@ -1,4 +1,4 @@
-![MasterHead](https://files.oaiusercontent.com/file-ASFp2hwiuUPg6qZCwWWrrG?se=2025-03-02T12%3A25%3A10Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddda43422-5d89-4a3a-983b-d51ef108c4e3.webp&sig=c6NL0emJTtiuQ%2BgtRnQPCc2OLq1kyG2zJbGTJlLD0aY%3D)
+![SWathi](https://files.oaiusercontent.com/file-ASFp2hwiuUPg6qZCwWWrrG?se=2025-03-02T12%3A25%3A10Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddda43422-5d89-4a3a-983b-d51ef108c4e3.webp&sig=c6NL0emJTtiuQ%2BgtRnQPCc2OLq1kyG2zJbGTJlLD0aY%3D)
 <h1 align="center">Hi 👋, I'm Swathi Mittapalli</h1>
 <h3 align="center">I am a Computer Science student with a passion for Full Stack Development, Machine Learning, and System Design. I have experience in building scalable applications using Java, Python, Spring Boot, React, and Node.js.</h3>
 
